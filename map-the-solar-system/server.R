@@ -22,7 +22,7 @@ shinyServer(function(input, output) {
                      "pluto")
     
     planetsOriginalSize <- 2 * c(695508, 2439.7, 6051.8, 3396.2, 71492, 60268, 25559, 24764, 1195)  #Source: NASA, radii converted to diameter in km, Earth has a radius of 6378.1
-    earthOriginalSize <- 6378.1 * 2
+    earthOriginalSize <- (6378.1 * 2)
     planetImages <- paste("www/", planetNames, ".png", sep="") #Pointing to the location of image files and constructing files names to be used as icons for map markers later on.
     
     imageDims <- function(images) { #This constructs a function that can be used to get the width and height dimensions of a list of images, provided a filepath.
