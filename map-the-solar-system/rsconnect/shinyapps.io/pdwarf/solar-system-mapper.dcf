@@ -1,0 +1,12 @@
+name: solar-system-mapper
+title: solar-system-mapper
+username:
+account: pdwarf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 588678
+bundleId: 1722457
+url: https://pdwarf.shinyapps.io/solar-system-mapper/
+when: 1543297345.6179
+asMultiple: FALSE
+asStatic: FALSE
