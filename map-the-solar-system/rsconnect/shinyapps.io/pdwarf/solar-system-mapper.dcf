@@ -5,8 +5,8 @@ account: pdwarf
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 588678
-bundleId: 1722457
+bundleId: 1722460
 url: https://pdwarf.shinyapps.io/solar-system-mapper/
-when: 1543297345.6179
+when: 1543297493.94427
 asMultiple: FALSE
 asStatic: FALSE
